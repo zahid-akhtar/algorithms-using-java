@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class RegexString {
 	
 	public static void main(String[] args) {
-		System.out.println(validateBatchName("90988ad asdsadasdssf sfsA234"));
+		System.out.println(validateBatchName(""));
 	}
 	
 	public static boolean validateBatchName(String mailId) {
